@@ -1,0 +1,10 @@
+docker-compose-yaml: docker-compose.yml
+project: demo-nextdrupal-ai
+
+environments:
+  main:
+    routes:
+      - node:
+        - "ai.demo.composetheweb.com":
+            tls-acme: true
+            insecure: Redirect
