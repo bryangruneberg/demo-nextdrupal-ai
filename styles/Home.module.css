@@ -46,6 +46,11 @@
   justify-content: center;
 }
 
+.titleicon {
+  margin-right: 1em;
+  height: 20px;
+}
+
 .appdescription {
   font-size: 1.1rem;
   margin: 1rem;
