@@ -15,7 +15,7 @@
       "id": "e2e9525c-63c0-4f69-9594-bed91b017d92",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92?resourceVersion=id%3A36"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92?resourceVersion=id%3A36"
         }
       },
       "attributes": {
@@ -58,10 +58,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/node_type?resourceVersion=id%3A36"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/node_type?resourceVersion=id%3A36"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/relationships\/node_type?resourceVersion=id%3A36"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/relationships\/node_type?resourceVersion=id%3A36"
             }
           }
         },
@@ -75,10 +75,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/revision_uid?resourceVersion=id%3A36"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/revision_uid?resourceVersion=id%3A36"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/relationships\/revision_uid?resourceVersion=id%3A36"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/relationships\/revision_uid?resourceVersion=id%3A36"
             }
           }
         },
@@ -92,10 +92,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/uid?resourceVersion=id%3A36"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/uid?resourceVersion=id%3A36"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/relationships\/uid?resourceVersion=id%3A36"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/relationships\/uid?resourceVersion=id%3A36"
             }
           }
         },
@@ -109,10 +109,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/field_media_image?resourceVersion=id%3A36"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/field_media_image?resourceVersion=id%3A36"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/relationships\/field_media_image?resourceVersion=id%3A36"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/relationships\/field_media_image?resourceVersion=id%3A36"
             }
           }
         },
@@ -156,10 +156,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/field_tags?resourceVersion=id%3A36"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/field_tags?resourceVersion=id%3A36"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/relationships\/field_tags?resourceVersion=id%3A36"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/e2e9525c-63c0-4f69-9594-bed91b017d92\/relationships\/field_tags?resourceVersion=id%3A36"
             }
           }
         }
@@ -170,7 +170,7 @@
       "id": "b86d5249-a67b-4f0a-8e51-d02348bb79dd",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd?resourceVersion=id%3A34"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd?resourceVersion=id%3A34"
         }
       },
       "attributes": {
@@ -213,10 +213,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/node_type?resourceVersion=id%3A34"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/node_type?resourceVersion=id%3A34"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/relationships\/node_type?resourceVersion=id%3A34"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/relationships\/node_type?resourceVersion=id%3A34"
             }
           }
         },
@@ -230,10 +230,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/revision_uid?resourceVersion=id%3A34"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/revision_uid?resourceVersion=id%3A34"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/relationships\/revision_uid?resourceVersion=id%3A34"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/relationships\/revision_uid?resourceVersion=id%3A34"
             }
           }
         },
@@ -247,10 +247,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/uid?resourceVersion=id%3A34"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/uid?resourceVersion=id%3A34"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/relationships\/uid?resourceVersion=id%3A34"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/relationships\/uid?resourceVersion=id%3A34"
             }
           }
         },
@@ -264,10 +264,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/field_media_image?resourceVersion=id%3A34"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/field_media_image?resourceVersion=id%3A34"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/relationships\/field_media_image?resourceVersion=id%3A34"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/relationships\/field_media_image?resourceVersion=id%3A34"
             }
           }
         },
@@ -311,10 +311,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/field_tags?resourceVersion=id%3A34"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/field_tags?resourceVersion=id%3A34"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/relationships\/field_tags?resourceVersion=id%3A34"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/b86d5249-a67b-4f0a-8e51-d02348bb79dd\/relationships\/field_tags?resourceVersion=id%3A34"
             }
           }
         }
@@ -325,7 +325,7 @@
       "id": "2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9?resourceVersion=id%3A32"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9?resourceVersion=id%3A32"
         }
       },
       "attributes": {
@@ -368,10 +368,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/node_type?resourceVersion=id%3A32"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/node_type?resourceVersion=id%3A32"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/relationships\/node_type?resourceVersion=id%3A32"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/relationships\/node_type?resourceVersion=id%3A32"
             }
           }
         },
@@ -385,10 +385,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/revision_uid?resourceVersion=id%3A32"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/revision_uid?resourceVersion=id%3A32"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/relationships\/revision_uid?resourceVersion=id%3A32"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/relationships\/revision_uid?resourceVersion=id%3A32"
             }
           }
         },
@@ -402,10 +402,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/uid?resourceVersion=id%3A32"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/uid?resourceVersion=id%3A32"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/relationships\/uid?resourceVersion=id%3A32"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/relationships\/uid?resourceVersion=id%3A32"
             }
           }
         },
@@ -419,10 +419,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/field_media_image?resourceVersion=id%3A32"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/field_media_image?resourceVersion=id%3A32"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/relationships\/field_media_image?resourceVersion=id%3A32"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/relationships\/field_media_image?resourceVersion=id%3A32"
             }
           }
         },
@@ -445,10 +445,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/field_tags?resourceVersion=id%3A32"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/field_tags?resourceVersion=id%3A32"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/relationships\/field_tags?resourceVersion=id%3A32"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/2151a81f-9f5c-4ab0-a7f9-b9ec2e376ed9\/relationships\/field_tags?resourceVersion=id%3A32"
             }
           }
         }
@@ -459,7 +459,7 @@
       "id": "af1ef19b-fbab-4d60-97c0-1a0bd8406151",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151?resourceVersion=id%3A30"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151?resourceVersion=id%3A30"
         }
       },
       "attributes": {
@@ -502,10 +502,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/node_type?resourceVersion=id%3A30"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/node_type?resourceVersion=id%3A30"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/relationships\/node_type?resourceVersion=id%3A30"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/relationships\/node_type?resourceVersion=id%3A30"
             }
           }
         },
@@ -519,10 +519,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/revision_uid?resourceVersion=id%3A30"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/revision_uid?resourceVersion=id%3A30"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/relationships\/revision_uid?resourceVersion=id%3A30"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/relationships\/revision_uid?resourceVersion=id%3A30"
             }
           }
         },
@@ -536,10 +536,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/uid?resourceVersion=id%3A30"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/uid?resourceVersion=id%3A30"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/relationships\/uid?resourceVersion=id%3A30"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/relationships\/uid?resourceVersion=id%3A30"
             }
           }
         },
@@ -553,10 +553,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/field_media_image?resourceVersion=id%3A30"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/field_media_image?resourceVersion=id%3A30"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/relationships\/field_media_image?resourceVersion=id%3A30"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/relationships\/field_media_image?resourceVersion=id%3A30"
             }
           }
         },
@@ -586,10 +586,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/field_tags?resourceVersion=id%3A30"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/field_tags?resourceVersion=id%3A30"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/relationships\/field_tags?resourceVersion=id%3A30"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/af1ef19b-fbab-4d60-97c0-1a0bd8406151\/relationships\/field_tags?resourceVersion=id%3A30"
             }
           }
         }
@@ -600,7 +600,7 @@
       "id": "a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae?resourceVersion=id%3A28"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae?resourceVersion=id%3A28"
         }
       },
       "attributes": {
@@ -643,10 +643,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/node_type?resourceVersion=id%3A28"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/node_type?resourceVersion=id%3A28"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/relationships\/node_type?resourceVersion=id%3A28"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/relationships\/node_type?resourceVersion=id%3A28"
             }
           }
         },
@@ -660,10 +660,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/revision_uid?resourceVersion=id%3A28"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/revision_uid?resourceVersion=id%3A28"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/relationships\/revision_uid?resourceVersion=id%3A28"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/relationships\/revision_uid?resourceVersion=id%3A28"
             }
           }
         },
@@ -677,10 +677,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/uid?resourceVersion=id%3A28"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/uid?resourceVersion=id%3A28"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/relationships\/uid?resourceVersion=id%3A28"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/relationships\/uid?resourceVersion=id%3A28"
             }
           }
         },
@@ -694,10 +694,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/field_media_image?resourceVersion=id%3A28"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/field_media_image?resourceVersion=id%3A28"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/relationships\/field_media_image?resourceVersion=id%3A28"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/relationships\/field_media_image?resourceVersion=id%3A28"
             }
           }
         },
@@ -720,10 +720,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/field_tags?resourceVersion=id%3A28"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/field_tags?resourceVersion=id%3A28"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/relationships\/field_tags?resourceVersion=id%3A28"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/a0a277fd-91c0-4b1a-97b5-acb9d83bf2ae\/relationships\/field_tags?resourceVersion=id%3A28"
             }
           }
         }
@@ -734,7 +734,7 @@
       "id": "561d4753-f67a-4437-ba16-08449d492ae4",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4?resourceVersion=id%3A26"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4?resourceVersion=id%3A26"
         }
       },
       "attributes": {
@@ -777,10 +777,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/node_type?resourceVersion=id%3A26"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/node_type?resourceVersion=id%3A26"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/relationships\/node_type?resourceVersion=id%3A26"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/relationships\/node_type?resourceVersion=id%3A26"
             }
           }
         },
@@ -794,10 +794,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/revision_uid?resourceVersion=id%3A26"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/revision_uid?resourceVersion=id%3A26"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/relationships\/revision_uid?resourceVersion=id%3A26"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/relationships\/revision_uid?resourceVersion=id%3A26"
             }
           }
         },
@@ -811,10 +811,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/uid?resourceVersion=id%3A26"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/uid?resourceVersion=id%3A26"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/relationships\/uid?resourceVersion=id%3A26"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/relationships\/uid?resourceVersion=id%3A26"
             }
           }
         },
@@ -828,10 +828,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/field_media_image?resourceVersion=id%3A26"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/field_media_image?resourceVersion=id%3A26"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/relationships\/field_media_image?resourceVersion=id%3A26"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/relationships\/field_media_image?resourceVersion=id%3A26"
             }
           }
         },
@@ -854,10 +854,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/field_tags?resourceVersion=id%3A26"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/field_tags?resourceVersion=id%3A26"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/relationships\/field_tags?resourceVersion=id%3A26"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/561d4753-f67a-4437-ba16-08449d492ae4\/relationships\/field_tags?resourceVersion=id%3A26"
             }
           }
         }
@@ -868,7 +868,7 @@
       "id": "0b7fe22e-7498-42b7-81f8-85c2eb3494fa",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa?resourceVersion=id%3A24"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa?resourceVersion=id%3A24"
         }
       },
       "attributes": {
@@ -911,10 +911,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/node_type?resourceVersion=id%3A24"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/node_type?resourceVersion=id%3A24"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/relationships\/node_type?resourceVersion=id%3A24"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/relationships\/node_type?resourceVersion=id%3A24"
             }
           }
         },
@@ -928,10 +928,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/revision_uid?resourceVersion=id%3A24"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/revision_uid?resourceVersion=id%3A24"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/relationships\/revision_uid?resourceVersion=id%3A24"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/relationships\/revision_uid?resourceVersion=id%3A24"
             }
           }
         },
@@ -945,10 +945,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/uid?resourceVersion=id%3A24"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/uid?resourceVersion=id%3A24"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/relationships\/uid?resourceVersion=id%3A24"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/relationships\/uid?resourceVersion=id%3A24"
             }
           }
         },
@@ -962,10 +962,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/field_media_image?resourceVersion=id%3A24"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/field_media_image?resourceVersion=id%3A24"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/relationships\/field_media_image?resourceVersion=id%3A24"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/relationships\/field_media_image?resourceVersion=id%3A24"
             }
           }
         },
@@ -988,10 +988,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/field_tags?resourceVersion=id%3A24"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/field_tags?resourceVersion=id%3A24"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/relationships\/field_tags?resourceVersion=id%3A24"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/0b7fe22e-7498-42b7-81f8-85c2eb3494fa\/relationships\/field_tags?resourceVersion=id%3A24"
             }
           }
         }
@@ -1002,7 +1002,7 @@
       "id": "d0886a3a-f8d8-4f33-b903-88d55c16914a",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a?resourceVersion=id%3A22"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a?resourceVersion=id%3A22"
         }
       },
       "attributes": {
@@ -1045,10 +1045,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/node_type?resourceVersion=id%3A22"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/node_type?resourceVersion=id%3A22"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/relationships\/node_type?resourceVersion=id%3A22"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/relationships\/node_type?resourceVersion=id%3A22"
             }
           }
         },
@@ -1062,10 +1062,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/revision_uid?resourceVersion=id%3A22"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/revision_uid?resourceVersion=id%3A22"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/relationships\/revision_uid?resourceVersion=id%3A22"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/relationships\/revision_uid?resourceVersion=id%3A22"
             }
           }
         },
@@ -1079,10 +1079,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/uid?resourceVersion=id%3A22"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/uid?resourceVersion=id%3A22"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/relationships\/uid?resourceVersion=id%3A22"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/relationships\/uid?resourceVersion=id%3A22"
             }
           }
         },
@@ -1096,10 +1096,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/field_media_image?resourceVersion=id%3A22"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/field_media_image?resourceVersion=id%3A22"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/relationships\/field_media_image?resourceVersion=id%3A22"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/relationships\/field_media_image?resourceVersion=id%3A22"
             }
           }
         },
@@ -1129,10 +1129,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/field_tags?resourceVersion=id%3A22"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/field_tags?resourceVersion=id%3A22"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/relationships\/field_tags?resourceVersion=id%3A22"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/article\/d0886a3a-f8d8-4f33-b903-88d55c16914a\/relationships\/field_tags?resourceVersion=id%3A22"
             }
           }
         }
@@ -1143,7 +1143,7 @@
       "id": "75bf546b-fda8-4de2-a1c4-b9334aa122f8",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8?resourceVersion=id%3A20"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8?resourceVersion=id%3A20"
         }
       },
       "attributes": {
@@ -1216,10 +1216,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/node_type?resourceVersion=id%3A20"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/node_type?resourceVersion=id%3A20"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/relationships\/node_type?resourceVersion=id%3A20"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/relationships\/node_type?resourceVersion=id%3A20"
             }
           }
         },
@@ -1233,10 +1233,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/revision_uid?resourceVersion=id%3A20"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/revision_uid?resourceVersion=id%3A20"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/relationships\/revision_uid?resourceVersion=id%3A20"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/relationships\/revision_uid?resourceVersion=id%3A20"
             }
           }
         },
@@ -1250,10 +1250,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/uid?resourceVersion=id%3A20"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/uid?resourceVersion=id%3A20"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/relationships\/uid?resourceVersion=id%3A20"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/relationships\/uid?resourceVersion=id%3A20"
             }
           }
         },
@@ -1267,10 +1267,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/field_media_image?resourceVersion=id%3A20"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/field_media_image?resourceVersion=id%3A20"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/relationships\/field_media_image?resourceVersion=id%3A20"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/relationships\/field_media_image?resourceVersion=id%3A20"
             }
           }
         },
@@ -1286,10 +1286,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/field_recipe_category?resourceVersion=id%3A20"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/field_recipe_category?resourceVersion=id%3A20"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/relationships\/field_recipe_category?resourceVersion=id%3A20"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/relationships\/field_recipe_category?resourceVersion=id%3A20"
             }
           }
         },
@@ -1305,10 +1305,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/field_tags?resourceVersion=id%3A20"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/field_tags?resourceVersion=id%3A20"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/relationships\/field_tags?resourceVersion=id%3A20"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/75bf546b-fda8-4de2-a1c4-b9334aa122f8\/relationships\/field_tags?resourceVersion=id%3A20"
             }
           }
         }
@@ -1319,7 +1319,7 @@
       "id": "2e9c910f-0608-4ebb-8d97-a9c5592e6f2c",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c?resourceVersion=id%3A18"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c?resourceVersion=id%3A18"
         }
       },
       "attributes": {
@@ -1384,10 +1384,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/node_type?resourceVersion=id%3A18"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/node_type?resourceVersion=id%3A18"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/relationships\/node_type?resourceVersion=id%3A18"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/relationships\/node_type?resourceVersion=id%3A18"
             }
           }
         },
@@ -1401,10 +1401,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/revision_uid?resourceVersion=id%3A18"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/revision_uid?resourceVersion=id%3A18"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/relationships\/revision_uid?resourceVersion=id%3A18"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/relationships\/revision_uid?resourceVersion=id%3A18"
             }
           }
         },
@@ -1418,10 +1418,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/uid?resourceVersion=id%3A18"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/uid?resourceVersion=id%3A18"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/relationships\/uid?resourceVersion=id%3A18"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/relationships\/uid?resourceVersion=id%3A18"
             }
           }
         },
@@ -1435,10 +1435,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/field_media_image?resourceVersion=id%3A18"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/field_media_image?resourceVersion=id%3A18"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/relationships\/field_media_image?resourceVersion=id%3A18"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/relationships\/field_media_image?resourceVersion=id%3A18"
             }
           }
         },
@@ -1454,10 +1454,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/field_recipe_category?resourceVersion=id%3A18"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/field_recipe_category?resourceVersion=id%3A18"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/relationships\/field_recipe_category?resourceVersion=id%3A18"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/relationships\/field_recipe_category?resourceVersion=id%3A18"
             }
           }
         },
@@ -1473,10 +1473,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/field_tags?resourceVersion=id%3A18"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/field_tags?resourceVersion=id%3A18"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/relationships\/field_tags?resourceVersion=id%3A18"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/2e9c910f-0608-4ebb-8d97-a9c5592e6f2c\/relationships\/field_tags?resourceVersion=id%3A18"
             }
           }
         }
@@ -1487,7 +1487,7 @@
       "id": "34893791-7343-4080-a8a4-31e008bc1da1",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1?resourceVersion=id%3A16"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1?resourceVersion=id%3A16"
         }
       },
       "attributes": {
@@ -1546,10 +1546,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/node_type?resourceVersion=id%3A16"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/node_type?resourceVersion=id%3A16"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/relationships\/node_type?resourceVersion=id%3A16"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/relationships\/node_type?resourceVersion=id%3A16"
             }
           }
         },
@@ -1563,10 +1563,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/revision_uid?resourceVersion=id%3A16"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/revision_uid?resourceVersion=id%3A16"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/relationships\/revision_uid?resourceVersion=id%3A16"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/relationships\/revision_uid?resourceVersion=id%3A16"
             }
           }
         },
@@ -1580,10 +1580,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/uid?resourceVersion=id%3A16"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/uid?resourceVersion=id%3A16"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/relationships\/uid?resourceVersion=id%3A16"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/relationships\/uid?resourceVersion=id%3A16"
             }
           }
         },
@@ -1597,10 +1597,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/field_media_image?resourceVersion=id%3A16"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/field_media_image?resourceVersion=id%3A16"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/relationships\/field_media_image?resourceVersion=id%3A16"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/relationships\/field_media_image?resourceVersion=id%3A16"
             }
           }
         },
@@ -1616,10 +1616,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/field_recipe_category?resourceVersion=id%3A16"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/field_recipe_category?resourceVersion=id%3A16"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/relationships\/field_recipe_category?resourceVersion=id%3A16"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/relationships\/field_recipe_category?resourceVersion=id%3A16"
             }
           }
         },
@@ -1642,10 +1642,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/field_tags?resourceVersion=id%3A16"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/field_tags?resourceVersion=id%3A16"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/relationships\/field_tags?resourceVersion=id%3A16"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/34893791-7343-4080-a8a4-31e008bc1da1\/relationships\/field_tags?resourceVersion=id%3A16"
             }
           }
         }
@@ -1656,7 +1656,7 @@
       "id": "0131c803-60fb-445a-889c-5e6e20a19149",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149?resourceVersion=id%3A14"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149?resourceVersion=id%3A14"
         }
       },
       "attributes": {
@@ -1718,10 +1718,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/node_type?resourceVersion=id%3A14"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/node_type?resourceVersion=id%3A14"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/relationships\/node_type?resourceVersion=id%3A14"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/relationships\/node_type?resourceVersion=id%3A14"
             }
           }
         },
@@ -1735,10 +1735,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/revision_uid?resourceVersion=id%3A14"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/revision_uid?resourceVersion=id%3A14"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/relationships\/revision_uid?resourceVersion=id%3A14"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/relationships\/revision_uid?resourceVersion=id%3A14"
             }
           }
         },
@@ -1752,10 +1752,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/uid?resourceVersion=id%3A14"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/uid?resourceVersion=id%3A14"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/relationships\/uid?resourceVersion=id%3A14"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/relationships\/uid?resourceVersion=id%3A14"
             }
           }
         },
@@ -1769,10 +1769,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/field_media_image?resourceVersion=id%3A14"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/field_media_image?resourceVersion=id%3A14"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/relationships\/field_media_image?resourceVersion=id%3A14"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/relationships\/field_media_image?resourceVersion=id%3A14"
             }
           }
         },
@@ -1788,10 +1788,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/field_recipe_category?resourceVersion=id%3A14"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/field_recipe_category?resourceVersion=id%3A14"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/relationships\/field_recipe_category?resourceVersion=id%3A14"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/relationships\/field_recipe_category?resourceVersion=id%3A14"
             }
           }
         },
@@ -1799,10 +1799,10 @@
           "data": [],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/field_tags?resourceVersion=id%3A14"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/field_tags?resourceVersion=id%3A14"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/relationships\/field_tags?resourceVersion=id%3A14"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/0131c803-60fb-445a-889c-5e6e20a19149\/relationships\/field_tags?resourceVersion=id%3A14"
             }
           }
         }
@@ -1813,7 +1813,7 @@
       "id": "f5a49345-414f-41d3-9f4e-74ea8de4b732",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732?resourceVersion=id%3A12"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732?resourceVersion=id%3A12"
         }
       },
       "attributes": {
@@ -1879,10 +1879,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/node_type?resourceVersion=id%3A12"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/node_type?resourceVersion=id%3A12"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/relationships\/node_type?resourceVersion=id%3A12"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/relationships\/node_type?resourceVersion=id%3A12"
             }
           }
         },
@@ -1896,10 +1896,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/revision_uid?resourceVersion=id%3A12"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/revision_uid?resourceVersion=id%3A12"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/relationships\/revision_uid?resourceVersion=id%3A12"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/relationships\/revision_uid?resourceVersion=id%3A12"
             }
           }
         },
@@ -1913,10 +1913,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/uid?resourceVersion=id%3A12"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/uid?resourceVersion=id%3A12"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/relationships\/uid?resourceVersion=id%3A12"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/relationships\/uid?resourceVersion=id%3A12"
             }
           }
         },
@@ -1930,10 +1930,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/field_media_image?resourceVersion=id%3A12"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/field_media_image?resourceVersion=id%3A12"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/relationships\/field_media_image?resourceVersion=id%3A12"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/relationships\/field_media_image?resourceVersion=id%3A12"
             }
           }
         },
@@ -1949,10 +1949,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/field_recipe_category?resourceVersion=id%3A12"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/field_recipe_category?resourceVersion=id%3A12"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/relationships\/field_recipe_category?resourceVersion=id%3A12"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/relationships\/field_recipe_category?resourceVersion=id%3A12"
             }
           }
         },
@@ -1960,10 +1960,10 @@
           "data": [],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/field_tags?resourceVersion=id%3A12"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/field_tags?resourceVersion=id%3A12"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/relationships\/field_tags?resourceVersion=id%3A12"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/f5a49345-414f-41d3-9f4e-74ea8de4b732\/relationships\/field_tags?resourceVersion=id%3A12"
             }
           }
         }
@@ -1974,7 +1974,7 @@
       "id": "352b4398-b750-4dd0-a17a-3b2791cf10aa",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa?resourceVersion=id%3A10"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa?resourceVersion=id%3A10"
         }
       },
       "attributes": {
@@ -2035,10 +2035,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/node_type?resourceVersion=id%3A10"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/node_type?resourceVersion=id%3A10"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/relationships\/node_type?resourceVersion=id%3A10"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/relationships\/node_type?resourceVersion=id%3A10"
             }
           }
         },
@@ -2052,10 +2052,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/revision_uid?resourceVersion=id%3A10"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/revision_uid?resourceVersion=id%3A10"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/relationships\/revision_uid?resourceVersion=id%3A10"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/relationships\/revision_uid?resourceVersion=id%3A10"
             }
           }
         },
@@ -2069,10 +2069,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/uid?resourceVersion=id%3A10"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/uid?resourceVersion=id%3A10"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/relationships\/uid?resourceVersion=id%3A10"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/relationships\/uid?resourceVersion=id%3A10"
             }
           }
         },
@@ -2086,10 +2086,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/field_media_image?resourceVersion=id%3A10"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/field_media_image?resourceVersion=id%3A10"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/relationships\/field_media_image?resourceVersion=id%3A10"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/relationships\/field_media_image?resourceVersion=id%3A10"
             }
           }
         },
@@ -2105,10 +2105,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/field_recipe_category?resourceVersion=id%3A10"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/field_recipe_category?resourceVersion=id%3A10"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/relationships\/field_recipe_category?resourceVersion=id%3A10"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/relationships\/field_recipe_category?resourceVersion=id%3A10"
             }
           }
         },
@@ -2124,10 +2124,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/field_tags?resourceVersion=id%3A10"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/field_tags?resourceVersion=id%3A10"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/relationships\/field_tags?resourceVersion=id%3A10"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/352b4398-b750-4dd0-a17a-3b2791cf10aa\/relationships\/field_tags?resourceVersion=id%3A10"
             }
           }
         }
@@ -2138,7 +2138,7 @@
       "id": "e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9?resourceVersion=id%3A8"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9?resourceVersion=id%3A8"
         }
       },
       "attributes": {
@@ -2197,10 +2197,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/node_type?resourceVersion=id%3A8"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/node_type?resourceVersion=id%3A8"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/relationships\/node_type?resourceVersion=id%3A8"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/relationships\/node_type?resourceVersion=id%3A8"
             }
           }
         },
@@ -2214,10 +2214,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/revision_uid?resourceVersion=id%3A8"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/revision_uid?resourceVersion=id%3A8"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/relationships\/revision_uid?resourceVersion=id%3A8"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/relationships\/revision_uid?resourceVersion=id%3A8"
             }
           }
         },
@@ -2231,10 +2231,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/uid?resourceVersion=id%3A8"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/uid?resourceVersion=id%3A8"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/relationships\/uid?resourceVersion=id%3A8"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/relationships\/uid?resourceVersion=id%3A8"
             }
           }
         },
@@ -2248,10 +2248,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/field_media_image?resourceVersion=id%3A8"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/field_media_image?resourceVersion=id%3A8"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/relationships\/field_media_image?resourceVersion=id%3A8"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/relationships\/field_media_image?resourceVersion=id%3A8"
             }
           }
         },
@@ -2267,10 +2267,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/field_recipe_category?resourceVersion=id%3A8"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/field_recipe_category?resourceVersion=id%3A8"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/relationships\/field_recipe_category?resourceVersion=id%3A8"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/relationships\/field_recipe_category?resourceVersion=id%3A8"
             }
           }
         },
@@ -2293,10 +2293,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/field_tags?resourceVersion=id%3A8"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/field_tags?resourceVersion=id%3A8"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/relationships\/field_tags?resourceVersion=id%3A8"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/e092f4f1-1c53-4fbc-9ece-3bc7c6455ea9\/relationships\/field_tags?resourceVersion=id%3A8"
             }
           }
         }
@@ -2307,7 +2307,7 @@
       "id": "7c4f2f08-9ef2-4661-b581-3717520ef238",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238?resourceVersion=id%3A6"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238?resourceVersion=id%3A6"
         }
       },
       "attributes": {
@@ -2371,10 +2371,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/node_type?resourceVersion=id%3A6"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/node_type?resourceVersion=id%3A6"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/relationships\/node_type?resourceVersion=id%3A6"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/relationships\/node_type?resourceVersion=id%3A6"
             }
           }
         },
@@ -2388,10 +2388,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/revision_uid?resourceVersion=id%3A6"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/revision_uid?resourceVersion=id%3A6"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/relationships\/revision_uid?resourceVersion=id%3A6"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/relationships\/revision_uid?resourceVersion=id%3A6"
             }
           }
         },
@@ -2405,10 +2405,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/uid?resourceVersion=id%3A6"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/uid?resourceVersion=id%3A6"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/relationships\/uid?resourceVersion=id%3A6"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/relationships\/uid?resourceVersion=id%3A6"
             }
           }
         },
@@ -2422,10 +2422,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/field_media_image?resourceVersion=id%3A6"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/field_media_image?resourceVersion=id%3A6"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/relationships\/field_media_image?resourceVersion=id%3A6"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/relationships\/field_media_image?resourceVersion=id%3A6"
             }
           }
         },
@@ -2441,10 +2441,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/field_recipe_category?resourceVersion=id%3A6"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/field_recipe_category?resourceVersion=id%3A6"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/relationships\/field_recipe_category?resourceVersion=id%3A6"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/relationships\/field_recipe_category?resourceVersion=id%3A6"
             }
           }
         },
@@ -2474,10 +2474,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/field_tags?resourceVersion=id%3A6"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/field_tags?resourceVersion=id%3A6"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/relationships\/field_tags?resourceVersion=id%3A6"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/7c4f2f08-9ef2-4661-b581-3717520ef238\/relationships\/field_tags?resourceVersion=id%3A6"
             }
           }
         }
@@ -2488,7 +2488,7 @@
       "id": "96dedccf-23df-469e-a800-542137f78f74",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74?resourceVersion=id%3A4"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74?resourceVersion=id%3A4"
         }
       },
       "attributes": {
@@ -2554,10 +2554,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/node_type?resourceVersion=id%3A4"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/node_type?resourceVersion=id%3A4"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/relationships\/node_type?resourceVersion=id%3A4"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/relationships\/node_type?resourceVersion=id%3A4"
             }
           }
         },
@@ -2571,10 +2571,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/revision_uid?resourceVersion=id%3A4"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/revision_uid?resourceVersion=id%3A4"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/relationships\/revision_uid?resourceVersion=id%3A4"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/relationships\/revision_uid?resourceVersion=id%3A4"
             }
           }
         },
@@ -2588,10 +2588,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/uid?resourceVersion=id%3A4"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/uid?resourceVersion=id%3A4"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/relationships\/uid?resourceVersion=id%3A4"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/relationships\/uid?resourceVersion=id%3A4"
             }
           }
         },
@@ -2605,10 +2605,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/field_media_image?resourceVersion=id%3A4"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/field_media_image?resourceVersion=id%3A4"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/relationships\/field_media_image?resourceVersion=id%3A4"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/relationships\/field_media_image?resourceVersion=id%3A4"
             }
           }
         },
@@ -2624,10 +2624,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/field_recipe_category?resourceVersion=id%3A4"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/field_recipe_category?resourceVersion=id%3A4"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/relationships\/field_recipe_category?resourceVersion=id%3A4"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/relationships\/field_recipe_category?resourceVersion=id%3A4"
             }
           }
         },
@@ -2664,10 +2664,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/field_tags?resourceVersion=id%3A4"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/field_tags?resourceVersion=id%3A4"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/relationships\/field_tags?resourceVersion=id%3A4"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/96dedccf-23df-469e-a800-542137f78f74\/relationships\/field_tags?resourceVersion=id%3A4"
             }
           }
         }
@@ -2678,7 +2678,7 @@
       "id": "23d857a3-ebfe-45de-8dbe-63ae85e116e3",
       "links": {
         "self": {
-          "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3?resourceVersion=id%3A2"
+          "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3?resourceVersion=id%3A2"
         }
       },
       "attributes": {
@@ -2744,10 +2744,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/node_type?resourceVersion=id%3A2"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/node_type?resourceVersion=id%3A2"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/relationships\/node_type?resourceVersion=id%3A2"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/relationships\/node_type?resourceVersion=id%3A2"
             }
           }
         },
@@ -2761,10 +2761,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/revision_uid?resourceVersion=id%3A2"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/revision_uid?resourceVersion=id%3A2"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/relationships\/revision_uid?resourceVersion=id%3A2"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/relationships\/revision_uid?resourceVersion=id%3A2"
             }
           }
         },
@@ -2778,10 +2778,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/uid?resourceVersion=id%3A2"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/uid?resourceVersion=id%3A2"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/relationships\/uid?resourceVersion=id%3A2"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/relationships\/uid?resourceVersion=id%3A2"
             }
           }
         },
@@ -2795,10 +2795,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/field_media_image?resourceVersion=id%3A2"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/field_media_image?resourceVersion=id%3A2"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/relationships\/field_media_image?resourceVersion=id%3A2"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/relationships\/field_media_image?resourceVersion=id%3A2"
             }
           }
         },
@@ -2814,10 +2814,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/field_recipe_category?resourceVersion=id%3A2"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/field_recipe_category?resourceVersion=id%3A2"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/relationships\/field_recipe_category?resourceVersion=id%3A2"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/relationships\/field_recipe_category?resourceVersion=id%3A2"
             }
           }
         },
@@ -2840,10 +2840,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/field_tags?resourceVersion=id%3A2"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/field_tags?resourceVersion=id%3A2"
             },
             "self": {
-              "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/relationships\/field_tags?resourceVersion=id%3A2"
+              "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/node\/recipe\/23d857a3-ebfe-45de-8dbe-63ae85e116e3\/relationships\/field_tags?resourceVersion=id%3A2"
             }
           }
         }
@@ -2855,7 +2855,7 @@
   },
   "links": {
     "self": {
-      "href": "https:\/\/drupal.demo.composetheweb.com\/en\/jsonapi\/views\/recipes_articles\/page_1"
+      "href": "https:\/\/next.demo.composetheweb.com\/en\/jsonapi\/views\/recipes_articles\/page_1"
     }
   }
 }
